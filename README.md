@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2152,3 +2153,15 @@ To resolve this:
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# RecipieBox Using ReactJS
+
+First of all you need to set up react on your local project
+Use the following command to do so:-
+
+npm install -g create-react-app 
+
+create-react-app <your project name>
+
+cd <your project name>
+>>>>>>> 7f9bfb40f2bad6c2d904af5c2bfea4cadd0a57db
