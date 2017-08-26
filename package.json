@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "recipe",
+=======
+  "name": "recipie",
+>>>>>>> 591fb960066467035a63d87e95aa976b1ba639e6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
